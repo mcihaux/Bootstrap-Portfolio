@@ -1,0 +1,62 @@
+.card { float: right;}
+
+.back {
+				background-color: #dddddd;
+				height: 100px;
+				padding: 10px;
+				width: 100%;
+			}
+
+.content{
+					padding: 20px;
+				}
+
+
+.main {
+				padding:20px;
+				width: 650px;
+				margin: 20px 20px 20px 20px;
+				background-color: white;}
+
+#name h1{ 
+		margin: 15px 0px 10px 10px; 
+		
+		}
+		
+#name{
+float: left;
+	width: 250px;
+	margin: 0px 0px 20px 150px;
+	background-color: #4aaaa5;
+	color: white;
+	height: 69px;
+			 }
+
+.clearfix {
+     overflow: auto;
+					 }
+
+
+
+#aboutme h1{ padding: 10px;
+						 color: #4aaaa5;
+						}
+
+footer {
+			position: absolute;
+		   	left: 0;
+		   	bottom: 0;
+		   	width: 1284px;
+				height: 80px;
+		  	background: #666666;
+				padding-top:20px;
+		  	text-align: center;
+		  	
+				}
+
+
+/*img {
+  max-width:25%;
+  height:300px;
+  padding-top: 20px;
+}*/
